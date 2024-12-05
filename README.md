@@ -1,5 +1,6 @@
 # CrossBridge
-![CrossBridge Logo](https://github.com/CrossBridge/assets/assets/70666B4C-CE46-40E5-8E0D-7A50E32CFB78.png)
+![CrossBridge Logo](
+https://github.com/LofteaO/CrossBridge/blob/29d63aab5fe581898265bd897e89b40e69f3ee1e/assets/70666B4C-CE46-40E5-8E0D-7A50E32CFB78.png)
 
 
 **CrossBridge** is a Minecraft mod that bridges the gap between Java and Bedrock players, enabling seamless cross-platform interaction on modded Fabric servers. It dynamically translates modded blocks, items, and entities into Bedrock-compatible equivalents, ensuring a unified experience for all players.
